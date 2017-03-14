@@ -175,7 +175,7 @@
 	\large		
    	Министерство образования и науки Российской Федерации\\[0.5cm]
     	
-	ФГБОУ ВПО Рыбинский государственный авиационный технический университет имени П.А. Соловьева\\[1.0cm]
+	ФГБОУ ВО Рыбинский государственный авиационный технический университет имени П.А. Соловьева\\[1.0cm]
 
 	Факультет радиоэлектроники и информатики\\[0.25cm]
 		
@@ -187,7 +187,7 @@
 	\textbf{Математические методы анализа данных}\\[0.5cm]
 	
 	по теме\\
-	Предварительная обработка значений временных рядов\\ Определение наличия тренда
+	Анализ стахастических свойств объекта на основе эксспериментальных данных\\
 
 \end{center}
 
@@ -198,7 +198,7 @@
 \end{tabularx}
 
 \vspace{1.5cm}
-\center Рыбинск 2016
+\center Рыбинск 2017
 \end{titlepage}	
 
 \tableofcontents
@@ -504,7 +504,8 @@ public class CalculationHelper {
      * @param k шаг
      * @return коэффициент автокорелляции
      */
-    public static double calculateAutocorrelation(List<Double> list, int k) {
+    public static double calculateAutocorrelation(List<Double> list, 
+    int k){
         List<Double> forCalculationList
                 = list.stream()
                 .map(s -> s -= 0.5)
@@ -533,7 +534,8 @@ public class CalculationHelper {
         return sum / calculateDispersion(list);
     }
 
-    public static double calculateConfidenceInterval(List<Double> list, Double t) {
+    public static double calculateConfidenceInterval(List<Double>
+     list, Double t) {
         return t * Math.sqrt(calculateDispersion(list) / list.size());
     }
 

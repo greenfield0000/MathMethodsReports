@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.28)  28 FEB 2017 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.28)  9 MAR 2017 15:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -228,20 +228,20 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 167.
+LaTeX Font Info:    ... okay on input line 167.
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
@@ -336,19 +336,19 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 <figure_1.png, id=15, 601.4972pt x 401.24907pt>
 File: figure_1.png Graphic file (type png)
  <use figure_1.png>
-Package pdftex.def Info: figure_1.png used on input line 215.
+Package pdftex.def Info: figure_1.png used on input line 212.
 (pdftex.def)             Requested size: 150.37393pt x 100.31201pt.
 
 <figure_2.png, id=17, 628.59843pt x 449.42906pt>
 File: figure_2.png Graphic file (type png)
  <use figure_2.png>
-Package pdftex.def Info: figure_2.png used on input line 225.
+Package pdftex.def Info: figure_2.png used on input line 222.
 (pdftex.def)             Requested size: 157.14922pt x 112.35698pt.
 
 <figure_3.png, id=18, 628.59843pt x 535.2497pt>
 File: figure_3.png Graphic file (type png)
  <use figure_3.png>
-Package pdftex.def Info: figure_3.png used on input line 235.
+Package pdftex.def Info: figure_3.png used on input line 232.
 (pdftex.def)             Requested size: 157.14922pt x 133.81209pt.
 
 
@@ -358,10 +358,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figure_1_1.png, id=24, 602.25pt x 449.42906pt>
 File: figure_1_1.png Graphic file (type png)
  <use figure_1_1.png>
-Package pdftex.def Info: figure_1_1.png used on input line 247.
+Package pdftex.def Info: figure_1_1.png used on input line 244.
 (pdftex.def)             Requested size: 240.89572pt x 179.76843pt.
  [3 <./figure_3.png> <./figure_1_1.png>]
-Overfull \hbox (27.19626pt too wide) in paragraph at lines 265--266
+Overfull \hbox (27.19626pt too wide) in paragraph at lines 262--263
 \T2A/cmr/m/n/12 15.50731. Это зна-че-ние не бы-ло при-вы-ше-но ни для од-ной ис
 -сле-ду-е-мой вы-бор-ки(таблица 1[]). 
  []
@@ -373,57 +373,46 @@ File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6]
-Overfull \hbox (2.96066pt too wide) in paragraph at lines 390--402
+Overfull \hbox (2.96066pt too wide) in paragraph at lines 387--399
 [][]
  []
 
 [7] [8] (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 418.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 415.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 418.
- [9]
-Overfull \hbox (8.92284pt too wide) in paragraph at lines 510--511
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][]  
- []
-
-[10]
-Overfull \hbox (44.91432pt too wide) in paragraph at lines 539--540
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][]  
- []
-
-[11] (./report.aux) ) 
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 415.
+ [9] [10] [11]
+(./report.aux) ) 
 Here is how much of TeX's memory you used:
  7603 strings out of 493029
  103541 string characters out of 6136234
- 459038 words of memory out of 5000000
+ 453038 words of memory out of 5000000
  11015 multiletter control sequences out of 15000+600000
  17977 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,9n,42p,860b,1793s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.en
-c}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super
-/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfxc1728.pfb>
-Output written on report.pdf (12 pages, 275402 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
+x1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
+1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share
+/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfxc1728.pfb>
+Output written on report.pdf (12 pages, 275424 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
