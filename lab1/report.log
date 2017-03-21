@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.28)  9 MAR 2017 15:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.2.28)  20 MAR 2017 11:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -333,34 +333,32 @@ File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 \openout3 = `report.toc'.
 
  [1]
-<figure_1.png, id=15, 601.4972pt x 401.24907pt>
+<figure_1.png, id=15, 745.28438pt x 277.78781pt>
 File: figure_1.png Graphic file (type png)
  <use figure_1.png>
 Package pdftex.def Info: figure_1.png used on input line 212.
-(pdftex.def)             Requested size: 150.37393pt x 100.31201pt.
+(pdftex.def)             Requested size: 186.32063pt x 69.44678pt.
 
-<figure_2.png, id=17, 628.59843pt x 449.42906pt>
+<figure_2.png, id=16, 736.25063pt x 277.78781pt>
 File: figure_2.png Graphic file (type png)
  <use figure_2.png>
 Package pdftex.def Info: figure_2.png used on input line 222.
-(pdftex.def)             Requested size: 157.14922pt x 112.35698pt.
+(pdftex.def)             Requested size: 184.0622pt x 69.44678pt.
 
-<figure_3.png, id=18, 628.59843pt x 535.2497pt>
+<figure_3.png, id=17, 732.48656pt x 277.78781pt>
 File: figure_3.png Graphic file (type png)
  <use figure_3.png>
 Package pdftex.def Info: figure_3.png used on input line 232.
-(pdftex.def)             Requested size: 157.14922pt x 133.81209pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./figure_1.png> <./figure_2.png>]
-<figure_1_1.png, id=24, 602.25pt x 449.42906pt>
+(pdftex.def)             Requested size: 183.12119pt x 69.44678pt.
+ [2 <./figure_1.png (PNG copy)> <./figure_2.png (PNG copy)> <./figure_3.png (PN
+G copy)>]
+<figure_1_1.png, id=21, 551.05875pt x 438.13687pt>
 File: figure_1_1.png Graphic file (type png)
  <use figure_1_1.png>
 Package pdftex.def Info: figure_1_1.png used on input line 244.
-(pdftex.def)             Requested size: 240.89572pt x 179.76843pt.
- [3 <./figure_3.png> <./figure_1_1.png>]
+(pdftex.def)             Requested size: 220.41959pt x 175.25163pt.
+
+[3 <./figure_1_1.png (PNG copy)>]
 Overfull \hbox (27.19626pt too wide) in paragraph at lines 262--263
 \T2A/cmr/m/n/12 15.50731. Это зна-че-ние не бы-ло при-вы-ше-но ни для од-ной ис
 -сле-ду-е-мой вы-бор-ки(таблица 1[]). 
@@ -393,7 +391,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 Here is how much of TeX's memory you used:
  7603 strings out of 493029
  103541 string characters out of 6136234
- 453038 words of memory out of 5000000
+ 453043 words of memory out of 5000000
  11015 multiletter control sequences out of 15000+600000
  17977 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -412,10 +410,10 @@ public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm
 1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share
 /texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/p
 ublic/cm-super/sfxc1728.pfb>
-Output written on report.pdf (12 pages, 275424 bytes).
+Output written on report.pdf (12 pages, 305726 bytes).
 PDF statistics:
- 113 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
